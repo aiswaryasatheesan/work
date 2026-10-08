@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first{
+    background-image:url(gradient-purple-color-background-modern-wave-abstract-designs_343694-2361.avif) ;
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+
+}
+
+.stand{
+    width: 100%;
+    height: 1000px;
+    
+}
+
+.stand h1{
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+    font-size: 100px;
+}
+.stand p{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.button{
+    box-sizing: border-box;
+    padding: 50px;
+    padding-left: 40%;
+    display: flex;
+    gap: 30px;
+}
+
+#b1{
+    background: linear-gradient(yellow , gold);
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    font-weight: 500px;
+    gap: 50px;
+}
+
+#b2{
+    background:linear-gradient(skyblue,navy);
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+}
+
